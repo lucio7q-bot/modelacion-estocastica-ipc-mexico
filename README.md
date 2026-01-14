@@ -19,4 +19,4 @@ históricos reales del mercado financiero.
 - Python
 
 ## Documento
-📄 [Leer la tesina (PDF)](tesina_IPC.pdf)
+📄 [Leer la tesina (PDF)](Modelacion Estocastica del IPC de Mexico.pdf) 
